@@ -1,7 +1,7 @@
 # Chat-app
 Python LAN Chat Application implementation with socket programming and multithreading
 
-#How to Run
+# How to Run
 Install dependencies:
 
 bash
